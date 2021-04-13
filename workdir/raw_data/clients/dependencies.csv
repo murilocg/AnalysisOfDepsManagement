@@ -1,0 +1,17 @@
+client,is_dev_dep,lib,version
+pectometro,False,@date-io/date-fns,^1.3.11
+pectometro,False,@material-ui/core,^4.5.1
+pectometro,False,@material-ui/icons,^4.5.1
+pectometro,False,@material-ui/pickers,^3.2.8
+pectometro,False,axios,^0.19.0
+pectometro,False,date-fns,^2.8.1
+pectometro,False,jsonwebtoken,^8.5.1
+pectometro,False,react,^16.10.2
+pectometro,False,react-dom,^16.10.2
+pectometro,False,react-number-format,^4.3.1
+pectometro,False,react-redux,^7.1.1
+pectometro,False,react-router-dom,^5.1.2
+pectometro,False,react-scripts,3.2.0
+pectometro,False,react-text-mask,^5.4.3
+pectometro,False,redux,^4.0.4
+pectometro,False,redux-thunk,^2.3.0

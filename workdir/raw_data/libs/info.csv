@@ -1,0 +1,17 @@
+dependent_repos_count,latest_release_number,repository_url,name
+603,2.10.7,https://github.com/dmtrKovalenko/date-io,@date-io/date-fns
+14756,5.0.0-alpha.29,https://github.com/mui-org/material-ui,@material-ui/core
+9601,5.0.0-alpha.28,https://github.com/mui-org/material-ui,@material-ui/icons
+566,4.0.0-alpha.12,https://github.com/mui-org/material-ui-pickers,@material-ui/pickers
+274444,0.21.1,https://github.com/axios/axios,axios
+68280,2.20.2,https://github.com/date-fns/date-fns,date-fns
+70644,8.5.1,https://github.com/auth0/node-jsonwebtoken,jsonwebtoken
+515312,17.0.2,https://github.com/facebook/react,react
+433584,17.0.2,https://github.com/facebook/react,react-dom
+539,4.5.4,https://github.com/s-yadav/react-number-format,react-number-format
+140108,7.2.3,https://github.com/reduxjs/react-redux,react-redux
+103980,6.0.0-beta.0,https://github.com/ReactTraining/react-router,react-router-dom
+179016,4.0.3,https://github.com/facebook/create-react-app,react-scripts
+1607,5.4.3,https://github.com/text-mask/text-mask,react-text-mask
+160941,4.0.5,https://github.com/reduxjs/redux,redux
+78262,2.3.0,https://github.com/reduxjs/redux-thunk,redux-thunk
